@@ -19,7 +19,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+- start projeckt September, 27 2023, 10:30
 ### The challenge
 
 Users should be able to:
